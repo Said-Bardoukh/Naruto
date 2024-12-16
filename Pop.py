@@ -1,5 +1,4 @@
-x=6
-
-while x!=0:
-    print("Hello")
-    x-=1
+while True:
+    n=int(input("What's n?"))
+    if n>0:
+        break 
